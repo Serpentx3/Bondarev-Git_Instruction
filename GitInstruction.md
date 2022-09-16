@@ -1,4 +1,1 @@
-[ViewState]
-Mode=
-Vid=
-FolderType=Generic
+# Инструкция по работе с Git
