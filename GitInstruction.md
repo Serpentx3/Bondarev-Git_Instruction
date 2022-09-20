@@ -1,4 +1,4 @@
-# Инструкция по работе с Git
+# <span style="color:burlywood">Инструкция по работе с Git</span>
 ## Памятка команд Git:
 * **git config --global user.name "name"** - *задать или изменить имя пользователя*
 * **git config --global user.email "email"** - *задать или изменить адрес электронной почты пользователя*
@@ -11,4 +11,4 @@
 * **git diff** - *просмотреть список изменений, не подготовленных для фиксации*
 * **clear** - *очистить поле терминала*
 
-<span style="color:blue"> **Список основных комманд Git:**</span> **(https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)**
+<span style="color:bisque"> **Список основных комманд Git:**</span> **(https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)**
